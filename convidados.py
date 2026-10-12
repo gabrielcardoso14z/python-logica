@@ -1,5 +1,5 @@
 nome =str(input("Digite seu nome: "))
-idade =int(input("DIgite sua idade: "))
+idade =int(input("Digite sua idade: "))
 if idade <= 12:
     print("Você é criança")
 elif idade <= 17:
