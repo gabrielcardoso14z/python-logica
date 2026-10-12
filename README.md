@@ -21,4 +21,4 @@ Estou aprendendo desde o básico e vou atualizando este repositório conforme av
 ## Sobre mim
 
 Estudante de Análise e Desenvolvimento de Sistemas (ESBAM/UNIESBAM), em Manaus.
-Estudando Python, Java, SQL e desenvolvimento web.
+Estudando Python, Java, JavaScript, TypeScript, SQL e Desenvolvimento Web.
