@@ -11,6 +11,8 @@ Estou aprendendo desde o básico e vou atualizando este repositório conforme av
 | `convidados.py` | Diz se a pessoa é criança, adolescente ou adulta | `if`, `elif`, `else` |
 | `tabuada.py` | Mostra a tabuada do número digitado | `for`, `range` |
 | `soma.py` | Soma todos os números de 1 até n | `for`, acumulador |
+| `par_impar.py` | Diz se um número é par ou ímpar | `%`, `if`, `else` |
+| `adivinha.py` | Jogo de adivinhar um número, com contador de tentativas | `while`, `if`, `elif`, contador |
 
 ## Como rodar
 
@@ -21,4 +23,4 @@ Estou aprendendo desde o básico e vou atualizando este repositório conforme av
 ## Sobre mim
 
 Estudante de Análise e Desenvolvimento de Sistemas (ESBAM/UNIESBAM), em Manaus.
-Estudando Python, Java, JavaScript, TypeScript, SQL e Desenvolvimento Web.
+Estudando Python, Java, SQL e Desenvolvimento Web.
